@@ -22,4 +22,4 @@ printCharges() from manager. Also uses Manager to accomplish tasks
 Adviser: Generic class that can use either Charges or Bills, to calculate your monthly budget after Charges/Bills, your
 spending money in a given time frame after Charges/Bills. Asks for a set income to aid budget, and uses manager to accomplish
 tasks.
-Side Note: If I had more time, I would create a user interface that handles all of these methods, mainly accounts by using user input on command line.
+Side Note: If I had more time, I would create a user interface that handles all of these methods, mainly accounts by using user input on command line. Please View this in RAW.
